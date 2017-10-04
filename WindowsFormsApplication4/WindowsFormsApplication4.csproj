@@ -79,7 +79,7 @@
   <ItemGroup>
     <Compile Include="AgilentXML.cs" />
     <Compile Include="BatchTuneReport.cs" />
-    <Compile Include="DataBaseManagement.cs" />
+    <Compile Include="DataAccessLayer.cs" />
     <Compile Include="TuneBatch.cs" />
     <Compile Include="PerformanceReport.cs" />
     <Compile Include="XMLFile.cs" />
